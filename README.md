@@ -12,7 +12,7 @@
 
 1. `git clone https://github.com/fmunni/ess.git`
 2. `npm install`
-3. `npm run buildui`
+3. `npm run build`
 4. run `node index.js`
 
 ### Mysql Env
