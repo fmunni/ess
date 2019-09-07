@@ -1,0 +1,15 @@
+.list-of-courses {
+  margin-top: 20px;
+}
+
+.list-of-course-heading {
+  font-weight: bold;
+}
+.App {
+  text-align: center;
+}
+.search-field {
+  border: 1px solid gray;
+  padding-left: 5px;
+  border-radius: 4px;
+}
