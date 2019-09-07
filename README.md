@@ -1,5 +1,7 @@
 # Course and Test Management
 
+Checkout the deployed version of the app at https://limitless-spire-43074.herokuapp.com/
+
 ###### Mainpage
 
 ![Homepage](/images/mainpage.png)
@@ -13,7 +15,7 @@
 1. `git clone https://github.com/fmunni/ess.git`
 2. `npm install`
 3. `npm run build`
-4. run `node index.js`
+4. run `npm start`
 
 ### Mysql Env
 
