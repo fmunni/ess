@@ -26,11 +26,11 @@ DB_PASS=****
 DB_NAME=****
 ```
 
-It runs on the default port 3306
+It runs on the default port 3306.
 
 #### Database Tables
 
-This application requires two database tables. This schemas are given below.
+This application requires two database tables. The schemas are given below.
 
 ```
 CREATE TABLE `course` (
