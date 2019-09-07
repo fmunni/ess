@@ -1,5 +1,9 @@
 .test {
-  width: 80%;
+  /* width: 80%; */
   margin-top: 2px;
   padding: 10px;
+  box-shadow: none !important;
+  border-top: 1px solid lightblue;
+  border-bottom: 1px solid lightblue;
+  border-radius: 0px !important;
 }

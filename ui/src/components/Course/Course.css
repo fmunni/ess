@@ -6,3 +6,11 @@
   margin-top: 10px;
   border: 1px solid black;
 }
+.course-test-container {
+  padding-left: 50px;
+  padding-right: 50px;
+  align-items: flex-end;
+}
+.course-field-title {
+  font-weight: bold !important;
+}
