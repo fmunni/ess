@@ -24,13 +24,13 @@ DB_HOST=****
 DB_USER=****
 DB_PASS=****
 DB_NAME=****
+DB_PORT=3306
 ```
-
-It runs on the default port 3306.
 
 #### Database Tables
 
 This application requires two database tables. The schemas are given below.
+Please create those table before running the app.
 
 ```
 CREATE TABLE `course` (
