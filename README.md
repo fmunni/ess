@@ -1,6 +1,10 @@
 # Course and Test Management
 
+###### Mainpage
+
 ![Homepage](/images/mainpage.png)
+
+###### Searching
 
 ![Search](/images/search.png)
 
