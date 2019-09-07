@@ -1,6 +1,6 @@
 # Course and Test Management
 
-Checkout the deployed version of the app at https://limitless-spire-43074.herokuapp.com/
+Checkout the deployed version of the app at https://limitless-spire-43074.herokuapp.com/ (Note: it might take a little while to start, because it sleeps when unused for more than 30 minutes.)
 
 ###### Mainpage
 
